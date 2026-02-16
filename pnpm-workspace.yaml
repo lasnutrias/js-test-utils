@@ -1,0 +1,4 @@
+onlyBuiltDependencies:
+  - '@nestjs/core'
+  - mongodb-memory-server
+  - unrs-resolver
