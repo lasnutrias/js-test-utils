@@ -1,3 +1,3 @@
 export * from './common';
 export * from './jwt';
-export * from './mongodb';
+export * from './mongodb/mongodb.service';
